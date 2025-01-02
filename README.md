@@ -24,13 +24,14 @@ Before you can run this application, ensure you have the following tools install
 1. **Clone the repository**:
    
    git clone https://github.com/yourusername/task_reminder_app.git
+   
    cd task_reminder_app
 
-2. **Install dependencies**:   
+3. **Install dependencies**:   
 
-Make sure you have Flutter set up and the necessary dependencies installed:
+   Make sure you have Flutter set up and the necessary dependencies installed:
 
-flutter pub get
+   flutter pub get
 
 3. **Run the app**:
 
