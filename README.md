@@ -48,9 +48,12 @@ Before you can run this application, ensure you have the following tools install
 4. **Building the app**:
 
 - **For Android**:
-         flutter build apk
+
+       flutter build apk
+
 - **For iOS**:
-         flutter build ios
+
+       flutter build ios
 
 
 ## Platform-Specific Implementations
