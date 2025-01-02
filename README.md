@@ -35,15 +35,15 @@ Before you can run this application, ensure you have the following tools install
 
 3. **Run the app**:
 
-To run the app on an emulator or physical device:
+   To run the app on an emulator or physical device:
 
 - **For Android**: Ensure you have an Android emulator running or a physical device connected, then:
 
-flutter run
+   flutter run
 
 - **For iOS**: Make sure you have a working iOS simulator or a physical device connected, then:
 
-flutter run
+   flutter run
 
 4. **Building the app**:
 
@@ -82,7 +82,7 @@ Future Improvements
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+   This project is licensed under the MIT License - see the LICENSE file for details.
 
 ### Key sections explained:
 
