@@ -23,7 +23,7 @@ Before you can run this application, ensure you have the following tools install
 
 1. **Clone the repository**:
    
-      git clone https://github.com/yourusername/task_reminder_app.git
+       git clone https://github.com/yourusername/task_reminder_app.git
    
      cd task_reminder_app
 
