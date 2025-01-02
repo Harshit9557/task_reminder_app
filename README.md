@@ -25,13 +25,13 @@ Before you can run this application, ensure you have the following tools install
    
        git clone https://github.com/yourusername/task_reminder_app.git
    
-     cd task_reminder_app
+       cd task_reminder_app
 
 3. **Install dependencies**:   
 
    Make sure you have Flutter set up and the necessary dependencies installed:
 
-     flutter pub get
+       flutter pub get
 
 3. **Run the app**:
 
@@ -39,18 +39,18 @@ Before you can run this application, ensure you have the following tools install
 
 - **For Android**: Ensure you have an Android emulator running or a physical device connected, then:
 
-     flutter run
+       flutter run
 
 - **For iOS**: Make sure you have a working iOS simulator or a physical device connected, then:
 
-     flutter run
+       flutter run
 
 4. **Building the app**:
 
 - **For Android**:
-     flutter build apk
+       flutter build apk
 - **For iOS**:
-     flutter build ios
+       flutter build ios
 
 
 ## Platform-Specific Implementations
